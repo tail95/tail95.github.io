@@ -145,3 +145,5 @@ tagmap:
     url: https://github.com/walmartlabs/lacinia
   - tag: Duct
     url: https://github.com/duct-framework/duct
+  - tag: adt
+    url: http://tech.kakao.com/tags/adt/

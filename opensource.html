@@ -19,11 +19,13 @@ tags: [opensource,s2graph,mrte,hbase-tools,hbase-region-inspector,adt,daum-edito
 				<p class="card-text">{{ item.content }}</p>
 				<p class="post-tags">
 					{% for tag in item.tags %}
+					{% assign tag_url = '/tags/' | append: tag %}
 						{% for tm in site.data.opensource.tagmap %}
 							{% if tag == tm.tag %}
-					<a href="{{ tm.url }}" target="_blank" title="opensource" class="tag tag-opensource" style="text-decoration: none">{{ tag }}</a>
+								{% assign tag_url = tm.url %}
 							{% endif %}
-						{% endfor %}
+					    {% endfor %}
+					<a href="{{ tag_url }}" target="_blank" title="opensource" class="tag tag-opensource" style="text-decoration: none">{{ tag }}</a>
 					{% endfor %}
 				</p><br/>
 				<a href="{{ item.github }}" target="_blank" class="btn btn-primary" style="color:#fff; text-decoration: none;">> GitHub</a>
