@@ -57,15 +57,24 @@ tags: [openapi]
 
 * [API 문서](https://github.com/plusfriend/auto_reply)
 
-### [티스토리](http://www.tistory.com/guide/blog)
+### [티스토리](https://tistory.github.io/document-tistory-apis/)
 
-* [OAuth 인증 가이드](http://www.tistory.com/guide/api/oauth)
-* [API 가이드](http://www.tistory.com/guide/api/index)
-  - [블로그](http://www.tistory.com/guide/api/blog)
-  - [포스트](http://www.tistory.com/guide/api/post)
-  - [카테고리](http://www.tistory.com/guide/api/category)
-  - [댓글](http://www.tistory.com/guide/api/comment)
-  - [방명록](http://www.tistory.com/guide/api/guestbook)
+* [OAuth 인증 가이드](https://tistory.github.io/document-tistory-apis/auth/)
+* [API 가이드](https://tistory.github.io/document-tistory-apis/apis/)
+  - [블로그 정보](https://tistory.github.io/document-tistory-apis/apis/v1/blog/list)
+  - 글
+    - [글 목록](https://tistory.github.io/document-tistory-apis/apis/v1/post/list)
+    - [글 읽기](https://tistory.github.io/document-tistory-apis/apis/v1/post/read)
+    - [글 작성](https://tistory.github.io/document-tistory-apis/apis/v1/post/write)
+    - [글 수정](https://tistory.github.io/document-tistory-apis/apis/v1/post/modify)
+    - [파일 첨부](https://tistory.github.io/document-tistory-apis/apis/v1/post/attach)
+  - [카테고리](https://tistory.github.io/document-tistory-apis/apis/v1/category/list)
+  - 댓글
+    - [최근 댓글 목록](https://tistory.github.io/document-tistory-apis/apis/v1/comment/recent)
+    - [댓글 목록](https://tistory.github.io/document-tistory-apis/apis/v1/comment/list)
+    - [댓글 작성](https://tistory.github.io/document-tistory-apis/apis/v1/comment/write)
+    - [댓글 수정](https://tistory.github.io/document-tistory-apis/apis/v1/comment/modify)
+    - [댓글 삭제](https://tistory.github.io/document-tistory-apis/apis/v1/comment/delete)
 
 <!--
 * 커버 이미지 출처: [API Testing and some amazing testing tools](http://go-gaga-over-testing.blogspot.kr/2013/11/api-testing-and-some-amazing-testing.html)
