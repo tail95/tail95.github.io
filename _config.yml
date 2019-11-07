@@ -4,10 +4,10 @@ description: |
   Connect Everything 새로운 연결, 새로운 세상.
   연결의 혁신으로 세상은 더욱 가깝고 새로워진다고 카카오는 믿습니다.
 baseurl: ''
-url: 'http://tech.kakao.com'
+url: 'http://tail95.github.io'
 timezone: Asia/Seoul 
 
-repository: kakao/kakao.github.io
+repository: tail95.github.io
 
 permalink: /:year/:month/:day/:title/
 
