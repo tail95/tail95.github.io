@@ -1,13 +1,15 @@
 defaults:
-  - name: khaiii
-    github: https://github.com/kakao/khaiii
-    title: Kakao Hangul Analyzer III
+  - name: airwriting
+    github: https://github.com/tail95/Air-Writing
+    title: Air Writing
     blog_url: http://tech.kakao.com/2018/12/13/khaiii/
-    content: 카카오의 딥러닝 기반 형태소 분석기
+    content: 손가락 객체 탐지를 통한 문자 인식
     tags:
      - Deep-Learning
      - CNN
      - AI
+     - Object Detection
+     - OCR
 
   - name: Apache S2Graph
     github: https://github.com/apache/incubator-s2graph
