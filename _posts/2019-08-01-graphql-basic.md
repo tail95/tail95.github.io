@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'GraphQL 개념잡기'
-author: hoon.choi
+title: 'TEST PAGE'
+author: tail.kim
 date: 2019-08-01 12:00
 tags: [graphql]
 ---
