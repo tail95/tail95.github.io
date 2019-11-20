@@ -19,8 +19,9 @@ krandown:
   input: GFM
   highlighter: rouge
 
-plugins:
+gems:
   - jekyll-paginate
+  - jekyll-seo-tag
 
 paginate: 5
 paginate_path: '/page/:num/'
@@ -50,7 +51,7 @@ exclude: [README.md, Gemfile, Gemfile.lock]
 keep_files: [assets, files]
 github: [metadata]
 # iolo's custom
-author: opensource@kakaocorp.com
+author: tail@kakao.com
 image: '/assets/images/default_blog_cover.jpg'
 asset_url: /assets
 #asset_url: //meta-kage.kakaocdn.net/dn/osa/blog/assets
