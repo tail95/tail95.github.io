@@ -23,6 +23,9 @@ gems:
   - jekyll-paginate
   - jekyll-seo-tag
 
+plugins:
+  - jemoji
+  -
 paginate: 5
 paginate_path: '/page/:num/'
 
