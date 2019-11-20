@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Problem Solving
-permalink: /ps/
+permalink: /problemsolving/
 sitemap: yes
 excerpt: 문제 해결 전략 !
 tags: [problemsolving]
