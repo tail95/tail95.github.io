@@ -27,27 +27,20 @@ pre,
 code,
 tt,
 kbd {
-    font-family: monospace;
-    font-weight: 300;
-}
-
-code.highlighter-rouge {
-  padding: 0;
-  padding-top: 0.2em;
-  padding-bottom: 0.2em;
-  margin: 0;
-  font-size: 85%;
-  background-color: rgba(27,31,35,0.05);
-  border-radius: 3px;
+    /*font-family: monospace;*/
+    font-family: Menlo, Monaco, 'Source Code Pro', consolas, monospace;
+    font-size: medium;
+    font-weight: 250;
 }
 
 b, strong, optgroup {
-    font-weight: 400;
+    font-weight: 580;
 }
 
 a, a:link, a:visited, a:active, a:hover {
     color: #505050;
     text-decoration: none;
+    font-weight: 350;
 }
 
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -132,6 +125,11 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 
 .clearfix:after {
     clear: both;
+}
+
+.highlighter-rouge {
+    font-weight: 400;
+    background-color: #fff8e5;
 }
 
 /*
@@ -832,6 +830,20 @@ body.author-template #navbar,
 body.tag-template #navbar {
     padding-top: 40px; /* 70px(height) = 40(padding-top) + 20(share icon height) + 10(padding-bottom) */
     padding-bottom: 10px;
+}
+
+#asdf {
+    position: relative;
+    margin: 0 40px;
+    padding: 30px 40px 30px 40px; /* 40(margin) + 40(padding) = 80 */
+    border-bottom: 1px solid #e6e6e6;
+    font-size: 16px;
+    line-height: 28px; /* 28px = 16(font-size) + 12(line-spacing) */
+    text-align: justify;
+}
+
+#asdf h2 {
+    font-size: 23px;
 }
 
 #post-content {
@@ -1671,7 +1683,7 @@ body.page-template {
 
 @media (-webkit-min-device-pixel-ratio: 3) {
     body {
-        font-weight: 200; /* @@iolo 200 for retina only! */
+        font-weight: 300; /* @@iolo 200 for retina only! */
     }
 
     #logo {
