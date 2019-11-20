@@ -14,10 +14,10 @@
     <ul class="search__results" id="results-container"></ul>
 
     <ul id="menu" class="nav">
-        <li class="{% if page.url != '/projects/' and page.url != '/openapi/' and page.url != '/events/' %} active {% endif %}"><a href="{{ base_path }}/">블로그</a></li>
+        <li class="{% if page.url != '/projects/' and page.url != '/openapi/' and page.url != '/problemsolving/' %} active {% endif %}"><a href="{{ base_path }}/">블로그</a></li>
         <li class="{% if page.url == '/projects/' %} active {% endif %}"><a href="{{ base_path }}/projects/">프로젝트</a></li>
         <li class="{% if page.url == '/openapi/' %} active {% endif %}"><a href="{{ base_path }}/openapi/">오픈API</a></li>
-        <li class="{% if page.url == '/events/' %} active {% endif %}"><a href="{{ base_path }}/events/">기술행사</a></li>
+        <li class="{% if page.url == '/problemsolving/' %} active {% endif %}"><a href="{{ base_path }}/problemsolving/">ProblemSolving</a></li>
     </ul>
 </div>
 <!-- Script pointing to jekyll-search.js -->
