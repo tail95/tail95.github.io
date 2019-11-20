@@ -846,46 +846,47 @@ body.tag-template #navbar {
 
 #post-content h1 {
     margin: 70px 0 30px 0;
-    font-size: 26px;
+    font-size: 28px;
 }
 
 /* @@iolo */
 #post-content h2 {
     margin: 50px 0 30px 0;
-    font-size: 22px;
+    font-size: 23px;
 }
 
 #post-content h3 {
     margin: 40px 0 30px 0;
-    font-size: 18px;
+    font-size: 19px;
 }
 
 /* @@iolo */
 #post-content h4 {
     margin: 36px 0 30px 0;
-    font-size: 17px;
+    font-size: 18px;
 }
 
 /* @@iolo */
 #post-content h5 {
     margin: 34px 0 30px 0;
-    font-size: 16px;
+    font-size: 17px;
 }
 
 /* @@iolo */
 #post-content h6 {
     margin: 32px 0 30px 0;
-    font-size: 15px;
+    font-size: 16px;
 }
 
 /* @@iolo */
 #post-content h6 {
     margin: 35px 0 30px 0;
-    font-size: 15px;
+    font-size: 16px;
 }
 
 #post-content p {
     margin: 28px 0 0 0;
+    font-weight: 350;
 }
 
 #post-content ul,
@@ -909,7 +910,7 @@ body.tag-template #navbar {
     border: 1px solid #d4d4d4;
     width: 100%;
     padding: 10px;
-    font-size: 0.9em;
+    font-size: 1.0em;
     white-space: pre;
     overflow: auto;
     border-radius: 3px
@@ -938,8 +939,8 @@ body.tag-template #navbar {
 }
 
 #post-content a {
-    text-decoration: underline;
-    text-decoration-color: #e6e6e6;
+    text-decoration: none;
+    border-bottom: 1px solid #f3cf00;
 }
 
 #post-content > *:first-child {
@@ -1580,7 +1581,7 @@ body.page-template {
 
 @media (-webkit-min-device-pixel-ratio: 2) {
     body {
-        font-weight: 200; /* @@iolo 200 for retina only! */
+        font-weight: 300; /* @@iolo 200 for retina only! */
     }
 
     #logo {
