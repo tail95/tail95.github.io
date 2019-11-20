@@ -11,8 +11,6 @@ defaults:
      - Object Detection
      - OCR
 
-
-
 tagmap:
   - tag: Scala
     url: http://scala-lang.org
