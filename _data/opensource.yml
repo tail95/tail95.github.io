@@ -2,7 +2,8 @@ defaults:
   - name: Air Writing
     github: https://github.com/tail95/Air-Writing
     title: Air Writing (2019.03~2019.09)
-    blog_url: http://tech.kakao.com/2018/12/13/khaiii/
+    blog_url: http://tail95.github.io
+    youtube: https://youtu.be/B01iwjwlcOY
     content: 손가락 객체 탐지를 통한  Air Writing 및 Air Writing 문자 인식
     tags:
      - Deep-Learning
@@ -10,6 +11,16 @@ defaults:
      - AI
      - Object Detection
      - OCR
+
+  - name: They Are Coming
+    github: https://github.com/tail95/Air-Writing
+    title: They Are Coming (2018.09~2018.11)
+    blog_url: http://tail95.github.io
+    youtube: https://youtu.be/vzEXJDRUiv4
+    content: 플레이어와 타워를 통해 몰려오는 적들을 막는 디펜스 게임
+    tags:
+      - Unity
+      - Game
 
 tagmap:
   - tag: Scala
