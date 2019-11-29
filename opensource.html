@@ -15,7 +15,7 @@ tags: [opensource,s2graph,mrte,hbase-tools,hbase-region-inspector,adt,daum-edito
 		<div class="card">
 			<div class="card-body">
 				<h2 class="card-title" style="margin:10px 0 0 0;">{{ item.name }}</h2>
-				<h6 class="card-subtitle mb-2 text-muted" style="margin-top:10px">{{ item.title }}</h6>
+				<h6 class="card-subtitle mb-2 text-muted" style="margin-top:10px">{{ item.period }}</h6>
 				<p class="card-text">{{ item.content }}</p>
 				<p class="post-tags">
 					{% for tag in item.tags %}
@@ -28,7 +28,9 @@ tags: [opensource,s2graph,mrte,hbase-tools,hbase-region-inspector,adt,daum-edito
 					<a href="{{ tag_url }}" target="_blank" title="opensource" class="tag tag-opensource" style="text-decoration: none">{{ tag }}</a>
 					{% endfor %}
 				</p><br/>
+				{% if item.github %}
 				<a href="{{ item.github }}" target="_blank" class="btn btn-primary" style="color:#fff; text-decoration: none;">> GitHub</a>
+				{% endif %}
 				{% if item.blog_url %}
 				<a href="{{ item.blog_url }}" class="btn btn-primary" style="color:#fff; text-decoration: none;">> Blog</a>
 				{% endif %}
