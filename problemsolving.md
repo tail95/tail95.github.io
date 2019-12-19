@@ -10,8 +10,8 @@ tags: [problemsolving]
 
 ## Brute Force
  - [x] [BOJ]1018 체스판 다시 칠하기 [문제](https://www.acmicpc.net/problem/1018) [풀이](https://github.com/tail95/Algorithm/blob/master/BruteForce/1018.cpp)  
- - [x] [BOJ]1065 한수 [문제](https://www.acmicpc.net/problem/1065) [풀이](https://github.com/tail95/Algorithm/blob/master/BruteForce/1065.py)
- - [ ] [BOJ]1182 부분집합의 합 [문제](https://www.acmicpc.net/problem/1182)  
+ - [x] [BOJ]1065 한수 [문제](https://www.acmicpc.net/problem/1065) [풀이](https://github.com/tail95/Algorithm/blob/master/BruteForce/1065.py)  
+ 📝- [ ] [BOJ]1182 부분집합의 합 [문제](https://www.acmicpc.net/problem/1182)  
  - [x] [BOJ]1436 영화감독 숌 [문제](https://www.acmicpc.net/problem/1436) [풀이](https://github.com/tail95/Algorithm/blob/master/BruteForce/1436.py)
  - [x] [BOJ]1748 수 이어 쓰기 1 [문제](https://www.acmicpc.net/problem/1748) [풀이](https://github.com/tail95/Algorithm/blob/master/BruteForce/1748.py) 
  - [x] [BOJ]2231 분해합 [문제](https://www.acmicpc.net/problem/2231) [풀이](https://github.com/tail95/Algorithm/blob/master/BruteForce/2231.py)  
@@ -39,7 +39,7 @@ tags: [problemsolving]
  - [x] [BOJ]1699 제곱수의 합 [문제](https://www.acmicpc.net/problem/1699) [풀이](https://github.com/tail95/Algorithm/blob/master/DynamicProgramming/1699.cpp)  
  - [x] [BOJ]1904 01타일 [문제](https://www.acmicpc.net/problem/1904) [풀이](https://github.com/tail95/Algorithm/blob/master/DynamicProgramming/1904.py) 
  - [x] [BOJ]1912 연속합 [문제](https://www.acmicpc.net/problem/1912) [풀이](https://github.com/tail95/Algorithm/blob/master/DynamicProgramming/1912.py)  
- - [x] [BOJ]2193 이친수 [문제](https://www.acmicpc.net/problem/2193) [풀이](https://github.com/tail95/Algorithm/blob/master/DynamicProgramming/2193.py)
+ - [x] [BOJ]2193 이친수 [문제](https://www.acmicpc.net/problem/2193) [풀이](https://github.com/tail95/Algorithm/blob/master/DynamicProgramming/2193.py)  
  - [ ] [BOJ]2294 동전 [문제](https://www.acmicpc.net/problem/2293)
  - [x] [BOJ]2294 동전 2 [문제](https://www.acmicpc.net/problem/2294) [풀이](https://github.com/tail95/Algorithm/blob/master/DynamicProgramming/2294.cpp)  
  - [ ] [BOJ]2631 줄세우기 [문제](https://www.acmicpc.net/problem/2631)
@@ -61,9 +61,9 @@ tags: [problemsolving]
 ## Queue
  - [x] [BOJ]1021 회전하는 큐 [문제](https://www.acmicpc.net/problem/1021) [풀이](https://github.com/tail95/Algorithm/blob/master/Queue/1021.py)
  - [x] [BOJ]1158 조세퍼스 문제 [문제](https://www.acmicpc.net/problem/1158) [풀이](https://github.com/tail95/Algorithm/blob/master/Queue/1158.cpp)
- - [ ] [BOJ]1966 프린터 큐 [문제](https://www.acmicpc.net/problem/1966)  
+ 📝- [ ] [BOJ]1966 프린터 큐 [문제](https://www.acmicpc.net/problem/1966)  
  - [x] [BOJ]2164 카드 2 [문제](https://www.acmicpc.net/problem/2164) [풀이](https://github.com/tail95/Algorithm/blob/master/Queue/2164.py)   
- 📝- [ ] [BOJ]2346 풍선 터뜨리기 [문제](https://www.acmicpc.net/problem/2346)   
+ - [ ] [BOJ]2346 풍선 터뜨리기 [문제](https://www.acmicpc.net/problem/2346)   
  - [x] [BOJ]2840 행운의 바퀴 [문제](https://www.acmicpc.net/problem/2840) [풀이](https://github.com/tail95/Algorithm/blob/master/Queue/2840.py)
  - [ ] [BOJ]3190 뱀 [문제](https://www.acmicpc.net/problem/3190)
  - [ ] [BOJ]5397 키로거 [문제](https://www.acmicpc.net/problem/5397)
@@ -85,8 +85,8 @@ tags: [problemsolving]
 ## Depth First Search
  - [x] [BOJ]1012 유기농 배추 [문제](https://www.acmicpc.net/problem/1012) [풀이](https://github.com/tail95/Algorithm/blob/master/DepthFirstSearch/1012.py)    
  - [x] [BOJ]1743 음식물 피하기 [문제](https://www.acmicpc.net/problem/1743) [풀이](https://github.com/tail95/Algorithm/blob/master/DepthFirstSearch/1743.py)  
- - [ ] [BOJ]2468 안전 영역 [문제](https://www.acmicpc.net/problem/2468)    
- - [ ] [BOJ]2583 영역 구하기 [문제](https://www.acmicpc.net/problem/2583)    
+ - [x] [BOJ]2468 안전 영역 [문제](https://www.acmicpc.net/problem/2468) [풀이](https://github.com/tail95/Algorithm/blob/master/DepthFirstSearch/2468.py)   
+ - [x] [BOJ]2583 영역 구하기 [문제](https://www.acmicpc.net/problem/2583) [풀이](https://github.com/tail95/Algorithm/blob/master/DepthFirstSearch/2583.cpp)    
  - [ ] [BOJ]2667 단지번호붙이기 [문제](https://www.acmicpc.net/problem/2667)  
  - [ ] [BOJ]9466 텀 프로젝트 [문제](https://www.acmicpc.net/problem/9466)  
  - [ ] [BOJ]10026 적록색약 [문제](https://www.acmicpc.net/problem/10026)  
@@ -112,12 +112,12 @@ tags: [problemsolving]
  - [ ] [BOJ]7562 나이트의 이동 [문제](https://www.acmicpc.net/problem/7562)
  - [ ] [BOJ]9019 DSLR [문제](https://www.acmicpc.net/problem/9019)
  - [ ] [BOJ]16397 탈출 [문제](https://www.acmicpc.net/problem/16397)
- 
+
 ## Greedy
 
 ## 기타
- -[ ] [Programmers] 멀쩡한 사각형 [문제](https://programmers.co.kr/learn/courses/30/lessons/62048)
- 
+ - [ ] [Programmers] 멀쩡한 사각형 [문제](https://programmers.co.kr/learn/courses/30/lessons/62048)
+ - [x] [BOJ]6996 애너그램 [문제](https://www.acmicpc.net/problem/16397) [풀이](https://github.com/tail95/Algorithm/blob/master/%EA%B8%B0%ED%83%80/%EC%95%A0%EB%84%88%EA%B7%B8%EB%9E%A8.py)
  
  
  
