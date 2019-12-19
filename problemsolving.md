@@ -61,7 +61,7 @@ tags: [problemsolving]
 ## Queue
  - [x] [BOJ]1021 회전하는 큐 [문제](https://www.acmicpc.net/problem/1021) [풀이](https://github.com/tail95/Algorithm/blob/master/Queue/1021.py)
  - [x] [BOJ]1158 조세퍼스 문제 [문제](https://www.acmicpc.net/problem/1158) [풀이](https://github.com/tail95/Algorithm/blob/master/Queue/1158.cpp)
- 📝- [ ] [BOJ]1966 프린터 큐 [문제](https://www.acmicpc.net/problem/1966)  
+ - [x] [BOJ]1966 프린터 큐 [문제](https://www.acmicpc.net/problem/1966) [풀이]((https://github.com/tail95/Algorithm/blob/master/Queue/1966.py))
  - [x] [BOJ]2164 카드 2 [문제](https://www.acmicpc.net/problem/2164) [풀이](https://github.com/tail95/Algorithm/blob/master/Queue/2164.py)   
  - [ ] [BOJ]2346 풍선 터뜨리기 [문제](https://www.acmicpc.net/problem/2346)   
  - [x] [BOJ]2840 행운의 바퀴 [문제](https://www.acmicpc.net/problem/2840) [풀이](https://github.com/tail95/Algorithm/blob/master/Queue/2840.py)
