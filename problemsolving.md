@@ -27,11 +27,11 @@ tags: [problemsolving]
 
 ## Sorting
  Sorting 알고리즘 [blog](링크)
- - [x] [Algorithm] bubbleSort [c++](https://github.com/tail95/Algorithm/blob/master/Sorting/bubbleSort.cpp) PYTHON
- - [x] [Algorithm] selectionSort [c++](https://github.com/tail95/Algorithm/blob/master/Sorting/selectionSort.cpp)
- - [x] [Algorithm] insertionSort [c++](https://github.com/tail95/Algorithm/blob/master/Sorting/insertionSort.cpp)
- - [ ] [Algorithm] mergeSort [c++]()
- - [ ] [Alogrithm] quickSort [c++]()
+ - [x] [Algorithm] bubbleSort [C++](https://github.com/tail95/Algorithm/blob/master/Sorting/bubbleSort.cpp) [Python](https://github.com/tail95/Algorithm/blob/master/Sorting/bubbleSort.py)
+ - [x] [Algorithm] selectionSort [C++](https://github.com/tail95/Algorithm/blob/master/Sorting/selectionSort.cpp)
+ - [x] [Algorithm] insertionSort [C++](https://github.com/tail95/Algorithm/blob/master/Sorting/insertionSort.cpp)
+ - [ ] [Algorithm] mergeSort [C++]()
+ - [ ] [Alogrithm] quickSort [C++]()
 
 ## Dynamic Programming
  - [x] [BOJ]1149 RGB거리 [문제](https://www.acmicpc.net/problem/1149) [풀이](https://github.com/tail95/Algorithm/blob/master/DynamicProgramming/1149.cpp)
@@ -43,6 +43,7 @@ tags: [problemsolving]
  - [ ] [BOJ]2294 동전 [문제](https://www.acmicpc.net/problem/2293)
  - [x] [BOJ]2294 동전 2 [문제](https://www.acmicpc.net/problem/2294) [풀이](https://github.com/tail95/Algorithm/blob/master/DynamicProgramming/2294.cpp)  
  - [ ] [BOJ]2631 줄세우기 [문제](https://www.acmicpc.net/problem/2631)
+ - [x] [BOJ]9095 1,2,3 더하기 [문제](https://www.acmicpc.net/problem/9095)[풀이](https://github.com/tail95/Algorithm/blob/master/DynamicProgramming/9095.cpp)
  - [ ] [BOJ]9465 스티커 [문제](https://www.acmicpc.net/problem/9465)
  - [ ] [BOJ]10844 쉬운 계단 수 [문제](https://www.acmicpc.net/problem/10844)  
  - [ ] [BOJ]11055 가장 큰 증가 부분 수열 [문제](https://www.acmicpc.net/problem/11055)
@@ -87,23 +88,22 @@ tags: [problemsolving]
  - [x] [BOJ]1743 음식물 피하기 [문제](https://www.acmicpc.net/problem/1743) [풀이](https://github.com/tail95/Algorithm/blob/master/DepthFirstSearch/1743.py)  
  - [x] [BOJ]2468 안전 영역 [문제](https://www.acmicpc.net/problem/2468) [풀이](https://github.com/tail95/Algorithm/blob/master/DepthFirstSearch/2468.py)   
  - [x] [BOJ]2583 영역 구하기 [문제](https://www.acmicpc.net/problem/2583) [풀이](https://github.com/tail95/Algorithm/blob/master/DepthFirstSearch/2583.cpp)    
- - [ ] [BOJ]2667 단지번호붙이기 [문제](https://www.acmicpc.net/problem/2667)  
+ - [x] [BOJ]2667 단지번호붙이기 [문제](https://www.acmicpc.net/problem/2667) [풀이](https://github.com/tail95/Algorithm/blob/master/DepthFirstSearch/2667.py)  
  - [ ] [BOJ]9466 텀 프로젝트 [문제](https://www.acmicpc.net/problem/9466)  
  - [ ] [BOJ]10026 적록색약 [문제](https://www.acmicpc.net/problem/10026)  
  - [ ] [BOJ]10265 MT [문제](https://www.acmicpc.net/problem/10265)  
  - [ ] [BOJ]10552 DOM [문제](https://www.acmicpc.net/problem/10552)  
- - [ ] [BOJ]11403 경로 찾기[문제](https://www.acmicpc.net/problem/11403)  
- - [ ] [BOJ]11724 연결 요소의 개수 [문제](https://www.acmicpc.net/problem/11724)  
+ - [ ] [BOJ]11403 경로 찾기[문제](https://www.acmicpc.net/problem/11403)    
  - [ ] [Programmers] 네트워크 [문제](https://programmers.co.kr/learn/courses/30/lessons/43162)
 
 ## Breath Frist Search
  - [ ] [BOJ]1039 교환 [문제](https://www.acmicpc.net/problem/1039)
- - [ ] [BOJ]1260 DFS와 BFS [문제](https://www.acmicpc.net/problem/1260)
+ - [x] [BOJ]1260 DFS와 BFS [문제](https://www.acmicpc.net/problem/1260) [풀이](https://github.com/tail95/Algorithm/blob/master/BreathFirstSearch/1260.py)  
  - [ ] [BOJ]1525 퍼즐 [문제](https://www.acmicpc.net/problem/1525)
  - [ ] [BOJ]1697 숨바꼭질 [문제](https://www.acmicpc.net/problem/1697)
  - [ ] [BOJ]2178 미로 탐색 [문제](https://www.acmicpc.net/problem/2178)
- - [ ] [BOJ]2206 벽 부수고 이동하기 [문제](https://www.acmicpc.net/problem/2206)  
- 📝- [ ] [BOJ]2644 촌수계산 [문제](https://www.acmicpc.net/problem/2644)
+ - [ ] [BOJ]2206 벽 부수고 이동하기 [문제](https://www.acmicpc.net/problem/2206) 
+ - [x] [BOJ]2644 촌수계산 [문제](https://www.acmicpc.net/problem/2644) [풀이](https://github.com/tail95/Algorithm/blob/master/BreathFirstSearch/2644.cpp)  
  - [ ] [BOJ]3055 탈출 [문제](https://www.acmicpc.net/problem/3055)
  - [ ] [BOJ]5014 스타트링크 [문제](https://www.acmicpc.net/problem/5014)
  - [ ] [BOJ]5427 불 [문제](https://www.acmicpc.net/problem/5427)
@@ -111,15 +111,16 @@ tags: [problemsolving]
  - [ ] [BOJ]7576 토마토 [문제](https://www.acmicpc.net/problem/7576)
  - [ ] [BOJ]7562 나이트의 이동 [문제](https://www.acmicpc.net/problem/7562)
  - [ ] [BOJ]9019 DSLR [문제](https://www.acmicpc.net/problem/9019)
+ - [x] [BOJ]11724 연결 요소의 개수 [문제](https://www.acmicpc.net/problem/11724) [풀이](https://github.com/tail95/Algorithm/blob/master/BreathFirstSearch/11724.cpp)
  - [ ] [BOJ]16397 탈출 [문제](https://www.acmicpc.net/problem/16397)
+ - [x] [Programmers] 네트워크 [문제](https://programmers.co.kr/learn/courses/30/lessons/43162) [풀이](https://github.com/tail95/Algorithm/blob/master/BreathFirstSearch/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.cpp)  
 
 ## Greedy
+ - [x] [BOJ]2875 대회 or 인턴 [문제](https://www.acmicpc.net/problem/2875) [풀이](https://github.com/tail95/Algorithm/blob/master/Greedy/2875.py)
 
 ## 기타
  - [ ] [Programmers] 멀쩡한 사각형 [문제](https://programmers.co.kr/learn/courses/30/lessons/62048)
  - [x] [BOJ]6996 애너그램 [문제](https://www.acmicpc.net/problem/16397) [풀이](https://github.com/tail95/Algorithm/blob/master/%EA%B8%B0%ED%83%80/%EC%95%A0%EB%84%88%EA%B7%B8%EB%9E%A8.py)
- 
- 
- 
+ - [x] [BOJ]4344 평균은넘겠지 [문제](https://www.acmicpc.net/problem/4344) [풀이](https://github.com/tail95/Algorithm/blob/master/%EA%B8%B0%ED%83%80/4344.cpp)
  
  
