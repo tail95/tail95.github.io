@@ -7,7 +7,7 @@ excerpt: 문제 해결 전략 !
 tags: [problemsolving]
 ---
 <center>📝알 고 리 즘 문 제 해 결 전 략📝</center>
-
+🎉 Happy New Year 🎉
 ## Brute Force
  - [x] [BOJ]1018 체스판 다시 칠하기 [문제](https://www.acmicpc.net/problem/1018) [풀이](https://github.com/tail95/Algorithm/blob/master/BruteForce/1018.cpp)  
  - [x] [BOJ]1065 한수 [문제](https://www.acmicpc.net/problem/1065) [풀이](https://github.com/tail95/Algorithm/blob/master/BruteForce/1065.py)  
