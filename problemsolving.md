@@ -55,7 +55,7 @@ tags: [problemsolving]
  - [x] [Programmers] 타일 장식물 [문제](https://programmers.co.kr/learn/courses/30/lessons/43104) [풀이](https://github.com/tail95/Algorithm/blob/master/DynamicProgramming/타일장식물.cpp)  
  - [ ] [Programmers] N으로 표현 [문제](https://programmers.co.kr/learn/courses/30/lessons/42895)
  - [x] [Programmers] 피보나치 수 [문제](https://programmers.co.kr/learn/courses/30/lessons/12945) [풀이](https://github.com/tail95/Algorithm/blob/master/DynamicProgramming/피보나치%20수.cpp)
- - [ ] [Programmers] 카드 게임 [문제](https://programmers.co.kr/learn/courses/30/lessons/42896)
+📝 - [ ] [Programmers] 카드 게임 [문제](https://programmers.co.kr/learn/courses/30/lessons/42896)
  - [ ] [Programmers] 도둑질 [문제](https://programmers.co.kr/learn/courses/30/lessons/42897) 
  - [ ] [Programmers] 서울에서 경산까지 [문제](https://programmers.co.kr/learn/courses/30/lessons/42899)
 
@@ -77,7 +77,7 @@ tags: [problemsolving]
  - [ ] [BOJ]2304 창고 다각형 [문제](https://www.acmicpc.net/problem/2304)  
  - [ ] [BOJ]2841 외계인의 기타 연주 [문제](https://www.acmicpc.net/problem/2841)  
  - [ ] [BOJ]3986 좋은 단어 [문제](https://www.acmicpc.net/problem/3986)
- - [ ] [BOJ]5076 Web Pages [문제](https://www.acmicpc.net/problem/5076)
+📝 - [ ] [BOJ]5076 Web Pages [문제](https://www.acmicpc.net/problem/5076)
  - [x] [BOJ]9012 괄호 [문제](https://www.acmicpc.net/problem/9012) [풀이](https://github.com/tail95/Algorithm/blob/master/Stack/9012.cpp)  
  - [x] [BOJ]10828 스택 [문제](https://www.acmicpc.net/problem/10828) [풀이](https://github.com/tail95/Algorithm/blob/master/Stack/10828.py)  
  - [x] [Programmers] 올바른 괄호 [문제](https://programmers.co.kr/learn/courses/30/lessons/12909) [풀이](https://github.com/tail95/Algorithm/blob/master/Stack/올바른%20괄호.py)  
@@ -90,18 +90,18 @@ tags: [problemsolving]
  - [x] [BOJ]2583 영역 구하기 [문제](https://www.acmicpc.net/problem/2583) [풀이](https://github.com/tail95/Algorithm/blob/master/DepthFirstSearch/2583.cpp)    
  - [x] [BOJ]2667 단지번호붙이기 [문제](https://www.acmicpc.net/problem/2667) [풀이](https://github.com/tail95/Algorithm/blob/master/DepthFirstSearch/2667.py)  
  - [ ] [BOJ]9466 텀 프로젝트 [문제](https://www.acmicpc.net/problem/9466)  
- - [ ] [BOJ]10026 적록색약 [문제](https://www.acmicpc.net/problem/10026)  
+ - [x] [BOJ]10026 적록색약 [문제](https://www.acmicpc.net/problem/10026) [풀이](https://github.com/tail95/Algorithm/blob/master/DepthFirstSearch/10026.py)  
  - [ ] [BOJ]10265 MT [문제](https://www.acmicpc.net/problem/10265)  
  - [ ] [BOJ]10552 DOM [문제](https://www.acmicpc.net/problem/10552)  
  - [ ] [BOJ]11403 경로 찾기[문제](https://www.acmicpc.net/problem/11403)    
- - [ ] [Programmers] 네트워크 [문제](https://programmers.co.kr/learn/courses/30/lessons/43162)
+ - [x] [Programmers] 네트워크 [문제](https://programmers.co.kr/learn/courses/30/lessons/43162)[풀이](https://github.com/tail95/Algorithm/blob/master/DepthFirstSearch/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.py)  
 
 ## Breath Frist Search
  - [ ] [BOJ]1039 교환 [문제](https://www.acmicpc.net/problem/1039)
  - [x] [BOJ]1260 DFS와 BFS [문제](https://www.acmicpc.net/problem/1260) [풀이](https://github.com/tail95/Algorithm/blob/master/BreathFirstSearch/1260.py)  
  - [ ] [BOJ]1525 퍼즐 [문제](https://www.acmicpc.net/problem/1525)
  - [ ] [BOJ]1697 숨바꼭질 [문제](https://www.acmicpc.net/problem/1697)
- - [ ] [BOJ]2178 미로 탐색 [문제](https://www.acmicpc.net/problem/2178)
+ - [x] [BOJ]2178 미로 탐색 [문제](https://www.acmicpc.net/problem/2178) [풀이](https://github.com/tail95/Algorithm/blob/master/BreathFirstSearch/2178.py)  
  - [ ] [BOJ]2206 벽 부수고 이동하기 [문제](https://www.acmicpc.net/problem/2206) 
  - [x] [BOJ]2644 촌수계산 [문제](https://www.acmicpc.net/problem/2644) [풀이](https://github.com/tail95/Algorithm/blob/master/BreathFirstSearch/2644.cpp)  
  - [ ] [BOJ]3055 탈출 [문제](https://www.acmicpc.net/problem/3055)
@@ -122,5 +122,5 @@ tags: [problemsolving]
  - [ ] [Programmers] 멀쩡한 사각형 [문제](https://programmers.co.kr/learn/courses/30/lessons/62048)
  - [x] [BOJ]6996 애너그램 [문제](https://www.acmicpc.net/problem/16397) [풀이](https://github.com/tail95/Algorithm/blob/master/%EA%B8%B0%ED%83%80/%EC%95%A0%EB%84%88%EA%B7%B8%EB%9E%A8.py)
  - [x] [BOJ]4344 평균은넘겠지 [문제](https://www.acmicpc.net/problem/4344) [풀이](https://github.com/tail95/Algorithm/blob/master/%EA%B8%B0%ED%83%80/4344.cpp)
- 
+ - [x] [BOJ]2673 셀프넘버 [문제](https://www.acmicpc.net/problem/2673) [풀이](https://github.com/tail95/Algorithm/blob/master/%EA%B8%B0%ED%83%80/2673.py)
  
