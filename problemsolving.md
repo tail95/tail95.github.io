@@ -10,8 +10,7 @@ tags: [problemsolving]
 🎉 Happy New Year 🎉
 ## Brute Force
  - [x] [BOJ]1018 체스판 다시 칠하기 [문제](https://www.acmicpc.net/problem/1018) [풀이](https://github.com/tail95/Algorithm/blob/master/BruteForce/1018.cpp)  
- - [x] [BOJ]1065 한수 [문제](https://www.acmicpc.net/problem/1065) [풀이](https://github.com/tail95/Algorithm/blob/master/BruteForce/1065.py)  
- 📝- [ ] [BOJ]1182 부분집합의 합 [문제](https://www.acmicpc.net/problem/1182)  
+ - [x] [BOJ]1065 한수 [문제](https://www.acmicpc.net/problem/1065) [풀이](https://github.com/tail95/Algorithm/blob/master/BruteForce/1065.py)   
  - [x] [BOJ]1436 영화감독 숌 [문제](https://www.acmicpc.net/problem/1436) [풀이](https://github.com/tail95/Algorithm/blob/master/BruteForce/1436.py)
  - [x] [BOJ]1748 수 이어 쓰기 1 [문제](https://www.acmicpc.net/problem/1748) [풀이](https://github.com/tail95/Algorithm/blob/master/BruteForce/1748.py) 
  - [x] [BOJ]2231 분해합 [문제](https://www.acmicpc.net/problem/2231) [풀이](https://github.com/tail95/Algorithm/blob/master/BruteForce/2231.py)  
@@ -54,7 +53,7 @@ tags: [problemsolving]
  - [ ] [BOJ]16500 문자열 판별 [문제](https://www.acmicpc.net/problem/16500)
  - [x] [Programmers] 타일 장식물 [문제](https://programmers.co.kr/learn/courses/30/lessons/43104) [풀이](https://github.com/tail95/Algorithm/blob/master/DynamicProgramming/타일장식물.cpp)  
  - [ ] [Programmers] N으로 표현 [문제](https://programmers.co.kr/learn/courses/30/lessons/42895)
- - [x] [Programmers] 피보나치 수 [문제](https://programmers.co.kr/learn/courses/30/lessons/12945) [풀이](https://github.com/tail95/Algorithm/blob/master/DynamicProgramming/피보나치%20수.cpp)
+ - [x] [Programmers] 피보나치 수 [문제](https://programmers.co.kr/learn/courses/30/lessons/12945) [풀이](https://github.com/tail95/Algorithm/blob/master/DynamicProgramming/피보나치%20수.cpp)  
 📝 - [ ] [Programmers] 카드 게임 [문제](https://programmers.co.kr/learn/courses/30/lessons/42896)
  - [ ] [Programmers] 도둑질 [문제](https://programmers.co.kr/learn/courses/30/lessons/42897) 
  - [ ] [Programmers] 서울에서 경산까지 [문제](https://programmers.co.kr/learn/courses/30/lessons/42899)
@@ -77,7 +76,7 @@ tags: [problemsolving]
  - [ ] [BOJ]1935 후위표기식2 [문제](https://www.acmicpc.net/problem/1935)  
  - [ ] [BOJ]2304 창고 다각형 [문제](https://www.acmicpc.net/problem/2304)  
  - [ ] [BOJ]2841 외계인의 기타 연주 [문제](https://www.acmicpc.net/problem/2841)  
- - [ ] [BOJ]3986 좋은 단어 [문제](https://www.acmicpc.net/problem/3986)
+ - [ ] [BOJ]3986 좋은 단어 [문제](https://www.acmicpc.net/problem/3986)  
 📝 - [ ] [BOJ]5076 Web Pages [문제](https://www.acmicpc.net/problem/5076)
  - [x] [BOJ]9012 괄호 [문제](https://www.acmicpc.net/problem/9012) [풀이](https://github.com/tail95/Algorithm/blob/master/Stack/9012.cpp)  
  - [x] [BOJ]10828 스택 [문제](https://www.acmicpc.net/problem/10828) [풀이](https://github.com/tail95/Algorithm/blob/master/Stack/10828.py)  
@@ -85,7 +84,8 @@ tags: [problemsolving]
  - [ ] [Programmers] 쇠막대기 [문제](https://programmers.co.kr/learn/courses/30/lessons/42585)
 
 ## Depth First Search
- - [x] [BOJ]1012 유기농 배추 [문제](https://www.acmicpc.net/problem/1012) [풀이](https://github.com/tail95/Algorithm/blob/master/DepthFirstSearch/1012.py)    
+ - [x] [BOJ]1012 유기농 배추 [문제](https://www.acmicpc.net/problem/1012) [풀이](https://github.com/tail95/Algorithm/blob/master/DepthFirstSearch/1012.py)   
+ - [x] [BOJ]1182 부분수열의 합 [문제] (https://www.acmicpc.net/problem/1182) [풀이](https://github.com/tail95/Algorithm/blob/master/DepthFirstSearch/1182.cpp)   
  - [x] [BOJ]1743 음식물 피하기 [문제](https://www.acmicpc.net/problem/1743) [풀이](https://github.com/tail95/Algorithm/blob/master/DepthFirstSearch/1743.py)  
  - [x] [BOJ]2468 안전 영역 [문제](https://www.acmicpc.net/problem/2468) [풀이](https://github.com/tail95/Algorithm/blob/master/DepthFirstSearch/2468.py)   
  - [x] [BOJ]2583 영역 구하기 [문제](https://www.acmicpc.net/problem/2583) [풀이](https://github.com/tail95/Algorithm/blob/master/DepthFirstSearch/2583.cpp)    
@@ -118,7 +118,8 @@ tags: [problemsolving]
 
 ## Greedy
  - [x] [BOJ]2875 대회 or 인턴 [문제](https://www.acmicpc.net/problem/2875) [풀이](https://github.com/tail95/Algorithm/blob/master/Greedy/2875.py)
-
+ - [x] [BOJ]11399 ATM [문제](https://www.acmicpc.net/problem/11399) [풀이](https://github.com/tail95/Algorithm/blob/master/Greedy/11399.cpp)  
+ 
 ## 기타
  - [ ] [Programmers] 멀쩡한 사각형 [문제](https://programmers.co.kr/learn/courses/30/lessons/62048)
  - [x] [BOJ]6996 애너그램 [문제](https://www.acmicpc.net/problem/16397) [풀이](https://github.com/tail95/Algorithm/blob/master/%EA%B8%B0%ED%83%80/%EC%95%A0%EB%84%88%EA%B7%B8%EB%9E%A8.py)
