@@ -72,6 +72,7 @@ tags: [problemsolving]
 ## Stack
  - [x] [BOJ]1406 에디터 [문제](https://www.acmicpc.net/problem/1406) [풀이](https://github.com/tail95/Algorithm/blob/master/Stack/1406.py)
  - [ ] [BOJ]1725 히스토그램 [문제](https://www.acmicpc.net/problem/1725)
+ - [ ] [BOJ]1874 스택 수열 [문제](https://www.acmicpc.net/problem/1874) [풀이](https://github.com/tail95/Algorithm/blob/master/Stack/1874.cpp))
  - [ ] [BOJ]1918 후위표기식 [문제](https://www.acmicpc.net/problem/1918)
  - [ ] [BOJ]1935 후위표기식2 [문제](https://www.acmicpc.net/problem/1935)  
  - [ ] [BOJ]2304 창고 다각형 [문제](https://www.acmicpc.net/problem/2304)  
@@ -122,5 +123,6 @@ tags: [problemsolving]
  - [ ] [Programmers] 멀쩡한 사각형 [문제](https://programmers.co.kr/learn/courses/30/lessons/62048)
  - [x] [BOJ]6996 애너그램 [문제](https://www.acmicpc.net/problem/16397) [풀이](https://github.com/tail95/Algorithm/blob/master/%EA%B8%B0%ED%83%80/%EC%95%A0%EB%84%88%EA%B7%B8%EB%9E%A8.py)
  - [x] [BOJ]4344 평균은넘겠지 [문제](https://www.acmicpc.net/problem/4344) [풀이](https://github.com/tail95/Algorithm/blob/master/%EA%B8%B0%ED%83%80/4344.cpp)
+ - [x] [BOJ]10814 나이순 정렬 [문제](https://www.acmicpc.net/problem/10814) [풀이](https://github.com/tail95/Algorithm/blob/master/%EA%B8%B0%ED%83%80/10814.py)
  
  
