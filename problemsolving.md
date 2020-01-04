@@ -39,7 +39,7 @@ tags: [problemsolving]
  - [x] [BOJ]1904 01타일 [문제](https://www.acmicpc.net/problem/1904) [풀이](https://github.com/tail95/Algorithm/blob/master/DynamicProgramming/1904.py) 
  - [x] [BOJ]1912 연속합 [문제](https://www.acmicpc.net/problem/1912) [풀이](https://github.com/tail95/Algorithm/blob/master/DynamicProgramming/1912.py)  
  - [x] [BOJ]2193 이친수 [문제](https://www.acmicpc.net/problem/2193) [풀이](https://github.com/tail95/Algorithm/blob/master/DynamicProgramming/2193.py)  
- - [ ] [BOJ]2294 동전 [문제](https://www.acmicpc.net/problem/2293)
+ - [ ] [BOJ]2293 동전 [문제](https://www.acmicpc.net/problem/2293)
  - [x] [BOJ]2294 동전 2 [문제](https://www.acmicpc.net/problem/2294) [풀이](https://github.com/tail95/Algorithm/blob/master/DynamicProgramming/2294.cpp)  
  - [ ] [BOJ]2631 줄세우기 [문제](https://www.acmicpc.net/problem/2631)
  - [x] [BOJ]9095 1,2,3 더하기 [문제](https://www.acmicpc.net/problem/9095)[풀이](https://github.com/tail95/Algorithm/blob/master/DynamicProgramming/9095.cpp)
