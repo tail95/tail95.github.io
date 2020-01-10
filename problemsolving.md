@@ -8,7 +8,9 @@ tags: [problemsolving]
 ---
 <center>📝알 고 리 즘 문 제 해 결 전 략📝</center>
 🎉 Happy New Year 🎉
+
 ## Brute Force
+---
  - [x] [BOJ]1018 체스판 다시 칠하기 [문제](https://www.acmicpc.net/problem/1018) [풀이](https://github.com/tail95/Algorithm/blob/master/BruteForce/1018.cpp)  
  - [x] [BOJ]1065 한수 [문제](https://www.acmicpc.net/problem/1065) [풀이](https://github.com/tail95/Algorithm/blob/master/BruteForce/1065.py)   
  - [x] [BOJ]1436 영화감독 숌 [문제](https://www.acmicpc.net/problem/1436) [풀이](https://github.com/tail95/Algorithm/blob/master/BruteForce/1436.py)
@@ -25,6 +27,7 @@ tags: [problemsolving]
  - [x] [Programmers] 숫자 야구 [문제](https://programmers.co.kr/learn/courses/30/lessons/42841) [풀이](https://github.com/tail95/Algorithm/blob/master/BruteForce/숫자야구.py)
 
 ## Sorting
+---
  Sorting 알고리즘 [blog](링크)
  - [x] [Algorithm] bubbleSort [C++](https://github.com/tail95/Algorithm/blob/master/Sorting/bubbleSort.cpp) [Python](https://github.com/tail95/Algorithm/blob/master/Sorting/bubbleSort.py)
  - [x] [Algorithm] selectionSort [C++](https://github.com/tail95/Algorithm/blob/master/Sorting/selectionSort.cpp)
@@ -33,18 +36,22 @@ tags: [problemsolving]
  - [ ] [Alogrithm] quickSort [C++]()
 
 ## Dynamic Programming
+---
  - [x] [BOJ]1149 RGB거리 [문제](https://www.acmicpc.net/problem/1149) [풀이](https://github.com/tail95/Algorithm/blob/master/DynamicProgramming/1149.cpp)
  - [x] [BOJ]1463 1로 만들기 [문제](https://www.acmicpc.net/problem/1463) [풀이](https://github.com/tail95/Algorithm/blob/master/DynamicProgramming/1463.cpp)
  - [x] [BOJ]1699 제곱수의 합 [문제](https://www.acmicpc.net/problem/1699) [풀이](https://github.com/tail95/Algorithm/blob/master/DynamicProgramming/1699.cpp)  
  - [x] [BOJ]1904 01타일 [문제](https://www.acmicpc.net/problem/1904) [풀이](https://github.com/tail95/Algorithm/blob/master/DynamicProgramming/1904.py) 
  - [x] [BOJ]1912 연속합 [문제](https://www.acmicpc.net/problem/1912) [풀이](https://github.com/tail95/Algorithm/blob/master/DynamicProgramming/1912.py)  
+ - [x] [BOJ]2133 타일 채우기 [문제](https://www.acmicpc.net/problem/2133) [풀이](https://github.com/tail95/Algorithm/blob/master/DynamicProgramming/2133.py)  
  - [x] [BOJ]2193 이친수 [문제](https://www.acmicpc.net/problem/2193) [풀이](https://github.com/tail95/Algorithm/blob/master/DynamicProgramming/2193.py)  
  - [ ] [BOJ]2293 동전 [문제](https://www.acmicpc.net/problem/2293)
  - [x] [BOJ]2294 동전 2 [문제](https://www.acmicpc.net/problem/2294) [풀이](https://github.com/tail95/Algorithm/blob/master/DynamicProgramming/2294.cpp)  
  - [ ] [BOJ]2631 줄세우기 [문제](https://www.acmicpc.net/problem/2631)
- - [x] [BOJ]9095 1,2,3 더하기 [문제](https://www.acmicpc.net/problem/9095)[풀이](https://github.com/tail95/Algorithm/blob/master/DynamicProgramming/9095.cpp)
+ - [x] [BOJ]9095 1,2,3 더하기 [문제](https://www.acmicpc.net/problem/9095) [풀이](https://github.com/tail95/Algorithm/blob/master/DynamicProgramming/9095.cpp)
  - [ ] [BOJ]9465 스티커 [문제](https://www.acmicpc.net/problem/9465)
+ - [x] [BOJ]9507 Generations of Tribbles [문제](https://www.acmicpc.net/problem/9507) [풀이](https://github.com/tail95/Algorithm/blob/master/DynamicProgramming/9507.cpp)
  - [ ] [BOJ]10844 쉬운 계단 수 [문제](https://www.acmicpc.net/problem/10844)  
+ - [x] [BOJ]11048 이동하기 [문제](https://www.acmicpc.net/problem/11048) [풀이](https://github.com/tail95/Algorithm/blob/master/DynamicProgramming/11048.py)  
  - [ ] [BOJ]11055 가장 큰 증가 부분 수열 [문제](https://www.acmicpc.net/problem/11055)
  - [ ] [BOJ]11057 오르막 수 [문제](https://www.acmicpc.net/problem/11057)
  - [x] [BOJ]11726 2xn 타일링 [문제](https://www.acmicpc.net/problem/11726) [풀이](https://github.com/tail95/Algorithm/blob/master/DynamicProgramming/11726.cpp)  
@@ -59,6 +66,7 @@ tags: [problemsolving]
  - [ ] [Programmers] 서울에서 경산까지 [문제](https://programmers.co.kr/learn/courses/30/lessons/42899)
 
 ## Queue
+---
  - [x] [BOJ]1021 회전하는 큐 [문제](https://www.acmicpc.net/problem/1021) [풀이](https://github.com/tail95/Algorithm/blob/master/Queue/1021.py)
  - [x] [BOJ]1158 조세퍼스 문제 [문제](https://www.acmicpc.net/problem/1158) [풀이](https://github.com/tail95/Algorithm/blob/master/Queue/1158.cpp)
  - [x] [BOJ]1966 프린터 큐 [문제](https://www.acmicpc.net/problem/1966) [풀이]((https://github.com/tail95/Algorithm/blob/master/Queue/1966.py))
@@ -70,6 +78,7 @@ tags: [problemsolving]
  - [x] [Programmers] 다리를 지나는 트럭 [문제](https://programmers.co.kr/learn/courses/30/lessons/42899) [풀이](https://github.com/tail95/Algorithm/blob/master/Queue/%EB%8B%A4%EB%A6%AC%EB%A5%BC%20%EC%A7%80%EB%82%98%EB%8A%94%20%ED%8A%B8%EB%9F%AD.py)  
  
 ## Stack
+---
  - [x] [BOJ]1406 에디터 [문제](https://www.acmicpc.net/problem/1406) [풀이](https://github.com/tail95/Algorithm/blob/master/Stack/1406.py)
  - [ ] [BOJ]1725 히스토그램 [문제](https://www.acmicpc.net/problem/1725)
  - [ ] [BOJ]1874 스택 수열 [문제](https://www.acmicpc.net/problem/1874) [풀이](https://github.com/tail95/Algorithm/blob/master/Stack/1874.cpp))
@@ -85,12 +94,14 @@ tags: [problemsolving]
  - [ ] [Programmers] 쇠막대기 [문제](https://programmers.co.kr/learn/courses/30/lessons/42585)
 
 ## Depth First Search
+---
  - [x] [BOJ]1012 유기농 배추 [문제](https://www.acmicpc.net/problem/1012) [풀이](https://github.com/tail95/Algorithm/blob/master/DepthFirstSearch/1012.py)   
  - [x] [BOJ]1182 부분수열의 합 [문제] (https://www.acmicpc.net/problem/1182) [풀이](https://github.com/tail95/Algorithm/blob/master/DepthFirstSearch/1182.cpp)   
  - [x] [BOJ]1743 음식물 피하기 [문제](https://www.acmicpc.net/problem/1743) [풀이](https://github.com/tail95/Algorithm/blob/master/DepthFirstSearch/1743.py)  
  - [x] [BOJ]2468 안전 영역 [문제](https://www.acmicpc.net/problem/2468) [풀이](https://github.com/tail95/Algorithm/blob/master/DepthFirstSearch/2468.py)   
  - [x] [BOJ]2583 영역 구하기 [문제](https://www.acmicpc.net/problem/2583) [풀이](https://github.com/tail95/Algorithm/blob/master/DepthFirstSearch/2583.cpp)    
- - [x] [BOJ]2667 단지번호붙이기 [문제](https://www.acmicpc.net/problem/2667) [풀이](https://github.com/tail95/Algorithm/blob/master/DepthFirstSearch/2667.py)  
+ - [x] [BOJ]2667 단지번호붙이기 [문제](https://www.acmicpc.net/problem/2667) [풀이](https://github.com/tail95/Algorithm/blob/master/DepthFirstSearch/2667.py) 
+ - [x] [BOJ]3187 양치기 꿍 [문제](https://www.acmicpc.net/problem/3187) [풀이](https://github.com/tail95/Algorithm/blob/master/DepthFirstSearch/3187.py) 
  - [ ] [BOJ]9466 텀 프로젝트 [문제](https://www.acmicpc.net/problem/9466)  
  - [x] [BOJ]10026 적록색약 [문제](https://www.acmicpc.net/problem/10026) [풀이](https://github.com/tail95/Algorithm/blob/master/DepthFirstSearch/10026.py)  
  - [ ] [BOJ]10265 MT [문제](https://www.acmicpc.net/problem/10265)  
@@ -99,6 +110,7 @@ tags: [problemsolving]
  - [x] [Programmers] 네트워크 [문제](https://programmers.co.kr/learn/courses/30/lessons/43162)[풀이](https://github.com/tail95/Algorithm/blob/master/DepthFirstSearch/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.py)  
 
 ## Breath Frist Search
+---
  - [ ] [BOJ]1039 교환 [문제](https://www.acmicpc.net/problem/1039)
  - [x] [BOJ]1260 DFS와 BFS [문제](https://www.acmicpc.net/problem/1260) [풀이](https://github.com/tail95/Algorithm/blob/master/BreathFirstSearch/1260.py)  
  - [ ] [BOJ]1525 퍼즐 [문제](https://www.acmicpc.net/problem/1525)
@@ -118,13 +130,19 @@ tags: [problemsolving]
  - [x] [Programmers] 네트워크 [문제](https://programmers.co.kr/learn/courses/30/lessons/43162) [풀이](https://github.com/tail95/Algorithm/blob/master/BreathFirstSearch/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.cpp)  
 
 ## Greedy
+---
  - [x] [BOJ]2875 대회 or 인턴 [문제](https://www.acmicpc.net/problem/2875) [풀이](https://github.com/tail95/Algorithm/blob/master/Greedy/2875.py)
  - [x] [BOJ]11399 ATM [문제](https://www.acmicpc.net/problem/11399) [풀이](https://github.com/tail95/Algorithm/blob/master/Greedy/11399.cpp)  
  
 ## 기타
+---
  - [ ] [Programmers] 멀쩡한 사각형 [문제](https://programmers.co.kr/learn/courses/30/lessons/62048)
  - [x] [BOJ]6996 애너그램 [문제](https://www.acmicpc.net/problem/16397) [풀이](https://github.com/tail95/Algorithm/blob/master/%EA%B8%B0%ED%83%80/%EC%95%A0%EB%84%88%EA%B7%B8%EB%9E%A8.py)
  - [x] [BOJ]4344 평균은넘겠지 [문제](https://www.acmicpc.net/problem/4344) [풀이](https://github.com/tail95/Algorithm/blob/master/%EA%B8%B0%ED%83%80/4344.cpp)
  - [x] [BOJ]10814 나이순 정렬 [문제](https://www.acmicpc.net/problem/10814) [풀이](https://github.com/tail95/Algorithm/blob/master/%EA%B8%B0%ED%83%80/10814.py)
  - [x] [BOJ]2673 셀프넘버 [문제](https://www.acmicpc.net/problem/2673) [풀이](https://github.com/tail95/Algorithm/blob/master/%EA%B8%B0%ED%83%80/2673.py)
- 
+
+ ## SAMSUNG
+---
+ - [x] [BOJ]17070 파이프 옮기기1 [문제](https://www.acmicpc.net/problem/17070) [풀이](https://github.com/tail95/Algorithm/blob/master/SAMSUNG/17070.cpp)
+
