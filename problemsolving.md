@@ -67,7 +67,8 @@ tags: [problemsolving]
  - [x] [BOJ]2840 행운의 바퀴 [문제](https://www.acmicpc.net/problem/2840) [풀이](https://github.com/tail95/Algorithm/blob/master/Queue/2840.py)
  - [ ] [BOJ]3190 뱀 [문제](https://www.acmicpc.net/problem/3190)
  - [ ] [BOJ]5397 키로거 [문제](https://www.acmicpc.net/problem/5397)
-
+ - [x] [Programmers] 다리를 지나는 트럭 [문제](https://programmers.co.kr/learn/courses/30/lessons/42899) [풀이](https://github.com/tail95/Algorithm/blob/master/Queue/%EB%8B%A4%EB%A6%AC%EB%A5%BC%20%EC%A7%80%EB%82%98%EB%8A%94%20%ED%8A%B8%EB%9F%AD.py)  
+ 
 ## Stack
  - [x] [BOJ]1406 에디터 [문제](https://www.acmicpc.net/problem/1406) [풀이](https://github.com/tail95/Algorithm/blob/master/Stack/1406.py)
  - [ ] [BOJ]1725 히스토그램 [문제](https://www.acmicpc.net/problem/1725)
