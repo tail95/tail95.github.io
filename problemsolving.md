@@ -8,6 +8,7 @@ tags: [problemsolving]
 ---
 <center>📝알 고 리 즘 문 제 해 결 전 략📝</center>
 🎉 Happy New Year 🎉
+
 ## Brute Force
  - [x] [BOJ]1018 체스판 다시 칠하기 [문제](https://www.acmicpc.net/problem/1018) [풀이](https://github.com/tail95/Algorithm/blob/master/BruteForce/1018.cpp)  
  - [x] [BOJ]1065 한수 [문제](https://www.acmicpc.net/problem/1065) [풀이](https://github.com/tail95/Algorithm/blob/master/BruteForce/1065.py)   
@@ -41,8 +42,10 @@ tags: [problemsolving]
  - [x] [BOJ]2193 이친수 [문제](https://www.acmicpc.net/problem/2193) [풀이](https://github.com/tail95/Algorithm/blob/master/DynamicProgramming/2193.py)  
  - [ ] [BOJ]2293 동전 [문제](https://www.acmicpc.net/problem/2293)
  - [x] [BOJ]2294 동전 2 [문제](https://www.acmicpc.net/problem/2294) [풀이](https://github.com/tail95/Algorithm/blob/master/DynamicProgramming/2294.cpp)  
+ - [ ] [BOJ]2579 계단 오르기 [문제](https://www.acmicpc.net/problem/2579)
  - [ ] [BOJ]2631 줄세우기 [문제](https://www.acmicpc.net/problem/2631)
  - [x] [BOJ]9095 1,2,3 더하기 [문제](https://www.acmicpc.net/problem/9095)[풀이](https://github.com/tail95/Algorithm/blob/master/DynamicProgramming/9095.cpp)
+ - [x] [BOJ]9461 파도반 수열 [문제](https://www.acmicpc.net/problem/9461)[풀이](https://github.com/tail95/Algorithm/blob/master/DynamicProgramming/9431.py)
  - [ ] [BOJ]9465 스티커 [문제](https://www.acmicpc.net/problem/9465)
  - [ ] [BOJ]10844 쉬운 계단 수 [문제](https://www.acmicpc.net/problem/10844)  
  - [ ] [BOJ]11055 가장 큰 증가 부분 수열 [문제](https://www.acmicpc.net/problem/11055)
