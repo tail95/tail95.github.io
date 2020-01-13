@@ -48,12 +48,8 @@ tags: [problemsolving]
  - [x] [BOJ]2294 동전 2 [문제](https://www.acmicpc.net/problem/2294) [풀이](https://github.com/tail95/Algorithm/blob/master/DynamicProgramming/2294.cpp)  
  - [ ] [BOJ]2579 계단 오르기 [문제](https://www.acmicpc.net/problem/2579)
  - [ ] [BOJ]2631 줄세우기 [문제](https://www.acmicpc.net/problem/2631)
-<<<<<<< HEAD
  - [x] [BOJ]9095 1,2,3 더하기 [문제](https://www.acmicpc.net/problem/9095)[풀이](https://github.com/tail95/Algorithm/blob/master/DynamicProgramming/9095.cpp)
  - [x] [BOJ]9461 파도반 수열 [문제](https://www.acmicpc.net/problem/9461)[풀이](https://github.com/tail95/Algorithm/blob/master/DynamicProgramming/9431.py)
-=======
- - [x] [BOJ]9095 1,2,3 더하기 [문제](https://www.acmicpc.net/problem/9095) [풀이](https://github.com/tail95/Algorithm/blob/master/DynamicProgramming/9095.cpp)
->>>>>>> 7f726c100e7e272221bccda3c155f00d02fc9714
  - [ ] [BOJ]9465 스티커 [문제](https://www.acmicpc.net/problem/9465)
  - [x] [BOJ]9507 Generations of Tribbles [문제](https://www.acmicpc.net/problem/9507) [풀이](https://github.com/tail95/Algorithm/blob/master/DynamicProgramming/9507.cpp)
  - [ ] [BOJ]10844 쉬운 계단 수 [문제](https://www.acmicpc.net/problem/10844)  
@@ -102,7 +98,7 @@ tags: [problemsolving]
 ## Depth First Search
 ---
  - [x] [BOJ]1012 유기농 배추 [문제](https://www.acmicpc.net/problem/1012) [풀이](https://github.com/tail95/Algorithm/blob/master/DepthFirstSearch/1012.py)   
- - [x] [BOJ]1182 부분수열의 합 [문제] (https://www.acmicpc.net/problem/1182) [풀이](https://github.com/tail95/Algorithm/blob/master/DepthFirstSearch/1182.cpp)   
+ - [x] [BOJ]1182 부분수열의 합 [문제](https://www.acmicpc.net/problem/1182) [풀이](https://github.com/tail95/Algorithm/blob/master/DepthFirstSearch/1182.cpp)   
  - [x] [BOJ]1743 음식물 피하기 [문제](https://www.acmicpc.net/problem/1743) [풀이](https://github.com/tail95/Algorithm/blob/master/DepthFirstSearch/1743.py)  
  - [x] [BOJ]2468 안전 영역 [문제](https://www.acmicpc.net/problem/2468) [풀이](https://github.com/tail95/Algorithm/blob/master/DepthFirstSearch/2468.py)   
  - [x] [BOJ]2583 영역 구하기 [문제](https://www.acmicpc.net/problem/2583) [풀이](https://github.com/tail95/Algorithm/blob/master/DepthFirstSearch/2583.cpp)    
@@ -128,7 +124,7 @@ tags: [problemsolving]
  - [ ] [BOJ]5014 스타트링크 [문제](https://www.acmicpc.net/problem/5014)
  - [ ] [BOJ]5427 불 [문제](https://www.acmicpc.net/problem/5427)
  - [ ] [BOJ]6593 상범 빌딩 [문제](https://www.acmicpc.net/problem/6593)
- - [ ] [BOJ]7576 토마토 [문제](https://www.acmicpc.net/problem/7576)
+ - [x] [BOJ]7576 토마토 [문제](https://www.acmicpc.net/problem/7576) [풀이](https://github.com/tail95/Algorithm/blob/master/BreathFirstSearch/7576.py)  
  - [ ] [BOJ]7562 나이트의 이동 [문제](https://www.acmicpc.net/problem/7562)
  - [ ] [BOJ]9019 DSLR [문제](https://www.acmicpc.net/problem/9019)
  - [x] [BOJ]11724 연결 요소의 개수 [문제](https://www.acmicpc.net/problem/11724) [풀이](https://github.com/tail95/Algorithm/blob/master/BreathFirstSearch/11724.cpp)
@@ -148,7 +144,7 @@ tags: [problemsolving]
  - [x] [BOJ]10814 나이순 정렬 [문제](https://www.acmicpc.net/problem/10814) [풀이](https://github.com/tail95/Algorithm/blob/master/%EA%B8%B0%ED%83%80/10814.py)
  - [x] [BOJ]2673 셀프넘버 [문제](https://www.acmicpc.net/problem/2673) [풀이](https://github.com/tail95/Algorithm/blob/master/%EA%B8%B0%ED%83%80/2673.py)
 
- ## SAMSUNG
+## SAMSUNG
 ---
  - [x] [BOJ]17070 파이프 옮기기1 [문제](https://www.acmicpc.net/problem/17070) [풀이](https://github.com/tail95/Algorithm/blob/master/SAMSUNG/17070.cpp)
 
