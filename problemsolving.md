@@ -42,6 +42,7 @@ tags: [problemsolving]
  - [x] [BOJ]1699 제곱수의 합 [문제](https://www.acmicpc.net/problem/1699) [풀이](https://github.com/tail95/Algorithm/blob/master/DynamicProgramming/1699.cpp)  
  - [x] [BOJ]1904 01타일 [문제](https://www.acmicpc.net/problem/1904) [풀이](https://github.com/tail95/Algorithm/blob/master/DynamicProgramming/1904.py) 
  - [x] [BOJ]1912 연속합 [문제](https://www.acmicpc.net/problem/1912) [풀이](https://github.com/tail95/Algorithm/blob/master/DynamicProgramming/1912.py)  
+ - [x] [BOJ]1932 정수 삼각형 [문제](https://www.acmicpc.net/problem/1932) [풀이](https://github.com/tail95/Algorithm/blob/master/DynamicProgramming/1932.cpp)  
  - [x] [BOJ]2133 타일 채우기 [문제](https://www.acmicpc.net/problem/2133) [풀이](https://github.com/tail95/Algorithm/blob/master/DynamicProgramming/2133.py)  
  - [x] [BOJ]2193 이친수 [문제](https://www.acmicpc.net/problem/2193) [풀이](https://github.com/tail95/Algorithm/blob/master/DynamicProgramming/2193.py)  
  - [ ] [BOJ]2293 동전 [문제](https://www.acmicpc.net/problem/2293)
